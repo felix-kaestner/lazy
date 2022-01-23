@@ -34,6 +34,7 @@
     "dev": "rollup -c -w",
     "build": "rollup -c",
     "build:types": "tsc --declaration --emitDeclarationOnly --declarationDir types",
+    "build:release": "npm-run-all build build:types api:extract",
     "test": "jest",
     "test:dev": "jest --watchAll",
     "test:coverage": "jest --coverage",
@@ -46,7 +47,7 @@
     "api:document": "api-documenter markdown --input-folder temp --output-folder docs",
     "api:git": "git add --renormalize docs",
     "docs": "npm-run-all build:types api:extract api:document api:git clean",
-    "clean": "rimraf types types temp dist coverage",
+    "clean": "rimraf types temp coverage dist",
     "prepare": "husky install"
   },
   "devDependencies": {
