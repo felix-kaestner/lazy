@@ -51,20 +51,11 @@ jobs:
       - name: Check Types 👀
         run: yarn lint:types
 
-      - name: Run Build 🚧
-        run: yarn build
-
       - name: Run Tests 🌡
         run: yarn test:coverage
 
-      - name: Create package ⚡
-        run: yarn pack
-
-      - name: Upload package 🔥
-        uses: actions/upload-artifact@v2
-        with:
-          name: package
-          path: '*.tgz'
+      - name: Run Build 🚧
+        run: yarn build:release
 
       - name: Create Release 🎉
         if: "github.event_name == 'push' && matrix.node-version == '16.x'"
