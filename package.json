@@ -1,6 +1,6 @@
 {
   "name": "@felix-kaestner/lazy",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A small wrapper class for lazy initialized values",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
