@@ -1,6 +1,6 @@
 {
   "name": "@felix-kaestner/lazy",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A small wrapper class for lazy initialized values",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -51,7 +51,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.0.2",
+    "@commitlint/cli": "^16.1.0",
     "@commitlint/config-conventional": "^16.0.0",
     "@microsoft/api-documenter": "^7.14.1",
     "@microsoft/api-extractor": "^7.19.4",
@@ -73,16 +73,16 @@
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.0",
     "jest": "^26.6.0",
-    "lint-staged": "^12.1.7",
+    "lint-staged": "^12.3.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2",
-    "rollup": "^2.64.0",
+    "rollup": "^2.66.0",
     "rollup-plugin-terser": "^7.0.0",
     "semantic-release": "^18.0.1",
     "ts-jest": "^26.5.6",
     "tslib": "^2.3.1",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.5"
   },
   "lint-staged": {
     "*.@(ts|ts)": [

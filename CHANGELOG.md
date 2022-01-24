@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/felix-kaestner/lazy/compare/v1.0.1...v1.1.0) (2022-01-23)
+
+### Features
+
+- trigger release ([17a4f8c](https://github.com/felix-kaestner/lazy/commit/17a4f8c23f9398da77a36d4459bd0140ef135150))
+
 ## [1.0.1](https://github.com/felix-kaestner/lazy/compare/v1.0.0...v1.0.1) (2022-01-23)
 
 ### Bug Fixes
