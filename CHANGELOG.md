@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/felix-kaestner/lazy/compare/v1.1.0...v1.1.1) (2022-02-05)
+
+### Bug Fixes
+
+- **deps:** bump actions/github-script from 4.0.2 to 5.1.0 ([7f3d5e5](https://github.com/felix-kaestner/lazy/commit/7f3d5e5a520e69662a2a6e498fac5d8e0bac0e2a))
+
 # [1.1.0](https://github.com/felix-kaestner/lazy/compare/v1.0.1...v1.1.0) (2022-01-23)
 
 ### Features
