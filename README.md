@@ -17,7 +17,7 @@
     </a>
 </p>
 
-## Installation
+## Install
 
 Install with `npm` or `yarn`:
 
@@ -29,12 +29,12 @@ $ npm i git+https://github.com/felix-kaestner/lazy
 $ yarn add git+https://github.com/felix-kaestner/lazy
 ```
 
-## Quickstart
+## Usage
 
 Generate a lazy computed value which is memoized once it is computed.
 
 ```JavaScript
-import Lazy from 'lazy'
+import Lazy from '@felix-kaestner/lazy'
 
 const lazy = new Lazy(() => {
     // Do some computation which should be run lazily when needed and then memoized
@@ -53,7 +53,7 @@ console.log(lazy.value)
 The `Lazy` class accepts a generic type parameter.
 
 ```TypeScript
-import Lazy from 'lazy'
+import Lazy from '@felix-kaestner/lazy'
 
 const lazy = new Lazy<number>(() => {
     // ...
