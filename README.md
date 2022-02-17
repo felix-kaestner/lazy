@@ -3,6 +3,9 @@
 <p align="center">
     <span>A small wrapper class for lazy computed values.</span>
     <br><br>
+    <a href="https://app.codecov.io/gh/felix-kaestner/lazy/">
+        <img alt="Codecov" src="https://img.shields.io/codecov/c/github/felix-kaestner/lazy?color=29b6f6&style=flat-square&token=G0HFHGFM94">
+    </a>
     <a href="https://github.com/felix-kaestner/lazy/issues">
         <img alt="Issues" src="https://img.shields.io/github/issues/felix-kaestner/lazy?color=29b6f6&style=flat-square">
     </a>
