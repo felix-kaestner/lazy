@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/felix-kaestner/lazy/compare/v1.1.1...v1.1.2) (2022-03-01)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/labeler from 3.0.2 to 3.1.0 ([3aa97dd](https://github.com/felix-kaestner/lazy/commit/3aa97dd7d96d64815fd78d94e9e724a26c290feb))
+* **deps:** bump actions/setup-node from 2 to 3 ([b0e9add](https://github.com/felix-kaestner/lazy/commit/b0e9add4a43db2be952a6c45ae1021c7d5e4a0a0))
+
 ## [1.1.1](https://github.com/felix-kaestner/lazy/compare/v1.1.0...v1.1.1) (2022-02-05)
 
 ### Bug Fixes
