@@ -6,7 +6,7 @@
 
 Constructs a new instance of the `Lazy` class
 
-<b>Signature:</b>
+**Signature:**
 
 ```typescript
 constructor(initializer: () => T);
@@ -14,7 +14,34 @@ constructor(initializer: () => T);
 
 ## Parameters
 
-|  Parameter | Type | Description |
-|  --- | --- | --- |
-|  initializer | () =&gt; T |  |
+<table><thead><tr><th>
 
+Parameter
+
+
+</th><th>
+
+Type
+
+
+</th><th>
+
+Description
+
+
+</th></tr></thead>
+<tbody><tr><td>
+
+initializer
+
+
+</td><td>
+
+() =&gt; T
+
+
+</td><td>
+
+
+</td></tr>
+</tbody></table>

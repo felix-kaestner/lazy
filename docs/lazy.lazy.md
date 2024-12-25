@@ -6,7 +6,7 @@
 
 A Class containing a lazy initialized value
 
-<b>Signature:</b>
+**Signature:**
 
 ```typescript
 export default class Lazy<T> 
@@ -14,13 +14,78 @@ export default class Lazy<T>
 
 ## Constructors
 
-|  Constructor | Modifiers | Description |
-|  --- | --- | --- |
-|  [(constructor)(initializer)](./lazy.lazy._constructor_.md) |  | Constructs a new instance of the <code>Lazy</code> class |
+<table><thead><tr><th>
+
+Constructor
+
+
+</th><th>
+
+Modifiers
+
+
+</th><th>
+
+Description
+
+
+</th></tr></thead>
+<tbody><tr><td>
+
+[(constructor)(initializer)](./lazy.lazy._constructor_.md)
+
+
+</td><td>
+
+
+</td><td>
+
+Constructs a new instance of the `Lazy` class
+
+
+</td></tr>
+</tbody></table>
 
 ## Properties
 
-|  Property | Modifiers | Type | Description |
-|  --- | --- | --- | --- |
-|  [value](./lazy.lazy.value.md) |  | T |  |
+<table><thead><tr><th>
 
+Property
+
+
+</th><th>
+
+Modifiers
+
+
+</th><th>
+
+Type
+
+
+</th><th>
+
+Description
+
+
+</th></tr></thead>
+<tbody><tr><td>
+
+[value](./lazy.lazy.value.md)
+
+
+</td><td>
+
+`readonly`
+
+
+</td><td>
+
+T
+
+
+</td><td>
+
+
+</td></tr>
+</tbody></table>

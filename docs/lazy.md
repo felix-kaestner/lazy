@@ -6,7 +6,26 @@
 
 ## Classes
 
-|  Class | Description |
-|  --- | --- |
-|  [Lazy](./lazy.lazy.md) | A Class containing a lazy initialized value |
+<table><thead><tr><th>
 
+Class
+
+
+</th><th>
+
+Description
+
+
+</th></tr></thead>
+<tbody><tr><td>
+
+[Lazy](./lazy.lazy.md)
+
+
+</td><td>
+
+A Class containing a lazy initialized value
+
+
+</td></tr>
+</tbody></table>
