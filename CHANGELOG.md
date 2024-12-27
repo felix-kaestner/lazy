@@ -1,3 +1,40 @@
+## [2.0.1](https://github.com/felix-kaestner/lazy/compare/v2.0.0...v2.0.1) (2024-12-27)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/cache from 3.2.5 to 3.2.6 ([#327](https://github.com/felix-kaestner/lazy/issues/327)) ([f639bd3](https://github.com/felix-kaestner/lazy/commit/f639bd386a9912f278162c18d80ed211810e0bea))
+* **deps:** bump actions/cache from 3.2.6 to 3.3.0 ([#340](https://github.com/felix-kaestner/lazy/issues/340)) ([687e043](https://github.com/felix-kaestner/lazy/commit/687e043864d68a5cf064580957d0934c790c61ac))
+* **deps:** bump actions/cache from 3.3.0 to 3.3.1 ([#344](https://github.com/felix-kaestner/lazy/issues/344)) ([cc49129](https://github.com/felix-kaestner/lazy/commit/cc49129e787e7aaa5364db37b0f49f7c2615aaf8))
+* **deps:** bump actions/cache from 3.3.1 to 3.3.2 ([#517](https://github.com/felix-kaestner/lazy/issues/517)) ([cad7c5a](https://github.com/felix-kaestner/lazy/commit/cad7c5a02f5dc3cb96a283835c679669b56aceb3))
+* **deps:** bump actions/cache from 3.3.2 to 3.3.3 ([#637](https://github.com/felix-kaestner/lazy/issues/637)) ([9d4cf02](https://github.com/felix-kaestner/lazy/commit/9d4cf027ca573876580e9dbe739012e89019176d))
+* **deps:** bump actions/cache from 3.3.3 to 4.0.0 ([#645](https://github.com/felix-kaestner/lazy/issues/645)) ([36e0def](https://github.com/felix-kaestner/lazy/commit/36e0def4fc1f30e6091f78fec48cd38251cdd2d8))
+* **deps:** bump actions/cache from 4.0.0 to 4.0.1 ([#704](https://github.com/felix-kaestner/lazy/issues/704)) ([23928fe](https://github.com/felix-kaestner/lazy/commit/23928fedc75cf16404a38f758d1c2de578e809aa))
+* **deps:** bump actions/cache from 4.0.1 to 4.0.2 ([#728](https://github.com/felix-kaestner/lazy/issues/728)) ([6fa92c4](https://github.com/felix-kaestner/lazy/commit/6fa92c41e09c044558fbb9f702d615ab37ae5fe0))
+* **deps:** bump actions/cache from 4.0.2 to 4.1.0 ([#889](https://github.com/felix-kaestner/lazy/issues/889)) ([fde6512](https://github.com/felix-kaestner/lazy/commit/fde6512d74db014951cb7245094ba90ca30aa436))
+* **deps:** bump actions/cache from 4.1.0 to 4.1.1 ([#891](https://github.com/felix-kaestner/lazy/issues/891)) ([0da9854](https://github.com/felix-kaestner/lazy/commit/0da985400cf35538f432c339462bb66daad87eeb))
+* **deps:** bump actions/cache from 4.1.1 to 4.1.2 ([#909](https://github.com/felix-kaestner/lazy/issues/909)) ([61edf74](https://github.com/felix-kaestner/lazy/commit/61edf74abd50d7b510b8619ad9d0ed457a6ffd40))
+* **deps:** bump actions/cache from 4.1.2 to 4.2.0 ([#942](https://github.com/felix-kaestner/lazy/issues/942)) ([be52773](https://github.com/felix-kaestner/lazy/commit/be52773972c6ec90d96c6d031f6625bff2a1ee8d))
+* **deps:** bump actions/labeler from 4 to 5 ([#620](https://github.com/felix-kaestner/lazy/issues/620)) ([81cef5a](https://github.com/felix-kaestner/lazy/commit/81cef5af463efa6f4d2120aeb8b0273bd74ff0cc))
+* **deps:** bump actions/setup-node from 3 to 4 ([#576](https://github.com/felix-kaestner/lazy/issues/576)) ([9619ab4](https://github.com/felix-kaestner/lazy/commit/9619ab4cc11099244ef0c78693d414e074ca382b))
+* **deps:** bump actions/stale from 7 to 8 ([#356](https://github.com/felix-kaestner/lazy/issues/356)) ([2b6e64b](https://github.com/felix-kaestner/lazy/commit/2b6e64bd206bcd16dfb5416eee2aa98e8a387b4d))
+* **deps:** bump actions/stale from 8 to 9 ([#624](https://github.com/felix-kaestner/lazy/issues/624)) ([b9783a6](https://github.com/felix-kaestner/lazy/commit/b9783a67ab4cac197a211f8cae1985ba6b8d8c35))
+* **deps:** bump codecov/codecov-action from 3 to 4 ([#663](https://github.com/felix-kaestner/lazy/issues/663)) ([4739567](https://github.com/felix-kaestner/lazy/commit/473956781ae4d52600d40feec06ecd051a06e9b6))
+* **deps:** bump codecov/codecov-action from 4 to 5 ([#922](https://github.com/felix-kaestner/lazy/issues/922)) ([29fc110](https://github.com/felix-kaestner/lazy/commit/29fc1100df141cd612be0611d5a9c45c558f185a))
+* **deps:** bump dependabot/fetch-metadata from 1.3.6 to 1.4.0 ([#375](https://github.com/felix-kaestner/lazy/issues/375)) ([2db2d34](https://github.com/felix-kaestner/lazy/commit/2db2d34b2955c5b9651bed73f57395e57d5cb96a))
+* **deps:** bump dependabot/fetch-metadata from 1.4.0 to 1.5.1 ([#415](https://github.com/felix-kaestner/lazy/issues/415)) ([81c2180](https://github.com/felix-kaestner/lazy/commit/81c2180206dcc7633392f42b41c1205596351cd3))
+* **deps:** bump dependabot/fetch-metadata from 1.5.1 to 1.6.0 ([#453](https://github.com/felix-kaestner/lazy/issues/453)) ([57ee025](https://github.com/felix-kaestner/lazy/commit/57ee0258c456f0569273ddbb49462f92e8f50b2a))
+* **deps:** bump dependabot/fetch-metadata from 1.6.0 to 2.0.0 ([#729](https://github.com/felix-kaestner/lazy/issues/729)) ([88b1494](https://github.com/felix-kaestner/lazy/commit/88b14941e0da575d7dd6dc325c894f89dfe14408))
+* **deps:** bump dependabot/fetch-metadata from 2.0.0 to 2.1.0 ([#744](https://github.com/felix-kaestner/lazy/issues/744)) ([a52f591](https://github.com/felix-kaestner/lazy/commit/a52f591f8da2ab4fa71e868ab575731241a9ea7e))
+* **deps:** bump dependabot/fetch-metadata from 2.1.0 to 2.2.0 ([#800](https://github.com/felix-kaestner/lazy/issues/800)) ([d1fa6d6](https://github.com/felix-kaestner/lazy/commit/d1fa6d64aca10122baf9ebd65be8fc27459b6d89))
+* **deps:** bump ip from 1.1.5 to 1.1.9 ([#686](https://github.com/felix-kaestner/lazy/issues/686)) ([6530ce7](https://github.com/felix-kaestner/lazy/commit/6530ce7b608859f983a0f7ff769455cb77bd1fdb))
+* **deps:** bump semver from 5.7.1 to 5.7.2 ([#463](https://github.com/felix-kaestner/lazy/issues/463)) ([ee11d6c](https://github.com/felix-kaestner/lazy/commit/ee11d6c67c7352fdf013f19a1652ac94e2022097))
+* **deps:** bump tar from 6.1.11 to 6.2.1 ([#738](https://github.com/felix-kaestner/lazy/issues/738)) ([2401f3d](https://github.com/felix-kaestner/lazy/commit/2401f3dc9d1c67b9dd7f820678dd71b0bd737e3b))
+* **deps:** bump tough-cookie from 4.0.0 to 4.1.3 ([#461](https://github.com/felix-kaestner/lazy/issues/461)) ([2b86f2c](https://github.com/felix-kaestner/lazy/commit/2b86f2c37a041968a6f7f2e77949fb9eba2291c9))
+* **deps:** bump word-wrap from 1.2.3 to 1.2.4 ([#471](https://github.com/felix-kaestner/lazy/issues/471)) ([4879858](https://github.com/felix-kaestner/lazy/commit/48798583b901f89fd79927fc978b369840272080))
+* **deps:** bump ws from 7.5.8 to 7.5.10 ([#792](https://github.com/felix-kaestner/lazy/issues/792)) ([69b505b](https://github.com/felix-kaestner/lazy/commit/69b505be39b25891d3658dded76a1d228eafa74c))
+* **deps:** bump yaml from 2.2.1 to 2.2.2 ([#378](https://github.com/felix-kaestner/lazy/issues/378)) ([58d800d](https://github.com/felix-kaestner/lazy/commit/58d800d6c54f5402204494a1736cb458379929d6))
+
 # [2.0.0](https://github.com/felix-kaestner/lazy/compare/v1.1.2...v2.0.0) (2023-02-25)
 
 
